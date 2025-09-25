@@ -1,6 +1,3 @@
-void draw(){
- nuria(200, 150);
-};
 void nuria(float posx, float posy) {
 push();
 translate(posx,posy);
