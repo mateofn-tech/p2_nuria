@@ -6,7 +6,7 @@ translate(posx,posy);
   noFill();
   
   strokeWeight(6);
-ellipse(width/10, height/5,40,60);
+ellipse(width/17, height/6,40,60);
  point(40, 100);
  point(60, 100);
  line(80,80,80,180);
